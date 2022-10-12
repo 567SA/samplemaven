@@ -1,0 +1,6 @@
+projectKey=com.acc.maven:samplemaven
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.acc.maven:samplemaven
+ceTaskId=AYPLybc5ih6_7R5BmmNw
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPLybc5ih6_7R5BmmNw
